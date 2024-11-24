@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BestStoreMVC_EF_CFA.props" />
+</Project>

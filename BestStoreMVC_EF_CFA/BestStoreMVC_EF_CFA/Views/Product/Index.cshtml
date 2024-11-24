@@ -1,0 +1,53 @@
+﻿@model List<Product>
+
+@{
+    ViewData["Title"] = "Best_Store_In_AP";
+}
+
+
+<h3 class="text-center mb-5">List Of Products</h3>
+<div class="row mb-5">
+    <div class="col">
+        <a class="btn btn-outline-primary" asp-controller="Product" asp-action="Create">Create New Product</a>
+    </div>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th> ID</th>
+            <th> Name</th>
+            <th> Brand</t>
+            <th> Category</th>
+            <th> Price</th>
+            <th> Description</th>
+            <th> ImageFileName</th>
+            <th> Created At</th>
+            <th>Action</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var pr in Model)
+        {
+            <tr>
+                <td>@pr.ID</td>
+                <td>@pr.Name</td>
+                <td>@pr.Brand</td>
+                <td>@pr.Catagory</td>
+                <td>&#8377 @(pr.price)</td>
+                <td>@pr.Description</td>
+                <td><img src="~/Products/@pr.ImageFileName" width="100" /></td>
+                <td>@pr.CreateAt.ToString("dd/MM/yyyy")</td>
+
+                <td style="white-space:nowrap">
+                    <a class="btn btn-primary btn-sm" asp-controller="Product" asp-action="Edit" asp-route-id="@pr.ID">Edit</a>
+                    <a class="btn btn-danger btn-sm" asp-controller="Product" asp-action="Delete" asp-route-id="@pr.ID">Delete</a>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+                    

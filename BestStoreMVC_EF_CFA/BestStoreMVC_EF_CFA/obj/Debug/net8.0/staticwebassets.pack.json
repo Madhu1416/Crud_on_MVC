@@ -1,0 +1,481 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BestStoreMVC_EF_CFA.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BestStoreMVC_EF_CFA.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products20241123080602852.jpg",
+      "PackagePath": "staticwebassets\\Products20241123080602852.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products20241123080726756.jpg",
+      "PackagePath": "staticwebassets\\Products20241123080726756.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products20241123092815980.jpg",
+      "PackagePath": "staticwebassets\\Products20241123092815980.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products20241123093002924.jpg",
+      "PackagePath": "staticwebassets\\Products20241123093002924.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products20241123093019399.jpg",
+      "PackagePath": "staticwebassets\\Products20241123093019399.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products20241123093351677.jpg",
+      "PackagePath": "staticwebassets\\Products20241123093351677.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products20241123093513946.jpg",
+      "PackagePath": "staticwebassets\\Products20241123093513946.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products20241123093657129.jpg",
+      "PackagePath": "staticwebassets\\Products20241123093657129.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products20241123094229231.jpg",
+      "PackagePath": "staticwebassets\\Products20241123094229231.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products20241123094506311.jpg",
+      "PackagePath": "staticwebassets\\Products20241123094506311.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\1236549.jpg",
+      "PackagePath": "staticwebassets\\Products\\1236549.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\20241123095105346.jpg",
+      "PackagePath": "staticwebassets\\Products\\20241123095105346.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\20241123095126322.jpg",
+      "PackagePath": "staticwebassets\\Products\\20241123095126322.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\20241123100319192.jpg",
+      "PackagePath": "staticwebassets\\Products\\20241123100319192.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\20241123102115114.jpg",
+      "PackagePath": "staticwebassets\\Products\\20241123102115114.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\20241123102229446.jpg",
+      "PackagePath": "staticwebassets\\Products\\20241123102229446.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\20241123102617013.jpg",
+      "PackagePath": "staticwebassets\\Products\\20241123102617013.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\20241123102650947.jpg",
+      "PackagePath": "staticwebassets\\Products\\20241123102650947.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\20241124102903910.jpg",
+      "PackagePath": "staticwebassets\\Products\\20241124102903910.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\20241124103448546.jpg",
+      "PackagePath": "staticwebassets\\Products\\20241124103448546.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\20241124111837564.jpg",
+      "PackagePath": "staticwebassets\\Products\\20241124111837564.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\20241124112756174.jpg",
+      "PackagePath": "staticwebassets\\Products\\20241124112756174.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\20241124113418274.jpg",
+      "PackagePath": "staticwebassets\\Products\\20241124113418274.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\20241124115515920.jpg",
+      "PackagePath": "staticwebassets\\Products\\20241124115515920.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\20241124120406652.jpg",
+      "PackagePath": "staticwebassets\\Products\\20241124120406652.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\20241124120846492.jpg",
+      "PackagePath": "staticwebassets\\Products\\20241124120846492.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\20241124121106502.jpg",
+      "PackagePath": "staticwebassets\\Products\\20241124121106502.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\20241124121339767.jpg",
+      "PackagePath": "staticwebassets\\Products\\20241124121339767.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\20241124121559606.jpg",
+      "PackagePath": "staticwebassets\\Products\\20241124121559606.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\46554354.jpg",
+      "PackagePath": "staticwebassets\\Products\\46554354.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\46584568.jpg",
+      "PackagePath": "staticwebassets\\Products\\46584568.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\5464646.jpg",
+      "PackagePath": "staticwebassets\\Products\\5464646.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\8677444.jpg",
+      "PackagePath": "staticwebassets\\Products\\8677444.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\8774655.jpg",
+      "PackagePath": "staticwebassets\\Products\\8774655.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\Apple-iPhone-16-Pro.jpg",
+      "PackagePath": "staticwebassets\\Products\\Apple-iPhone-16-Pro.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\POCO-Pad-1.jpg",
+      "PackagePath": "staticwebassets\\Products\\POCO-Pad-1.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\V40.jpg",
+      "PackagePath": "staticwebassets\\Products\\V40.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\dell.jpg",
+      "PackagePath": "staticwebassets\\Products\\dell.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\hp.jpg",
+      "PackagePath": "staticwebassets\\Products\\hp.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\keyboard.jpg",
+      "PackagePath": "staticwebassets\\Products\\keyboard.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\laptopbag1.jpg",
+      "PackagePath": "staticwebassets\\Products\\laptopbag1.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\laptopcharger.jpg",
+      "PackagePath": "staticwebassets\\Products\\laptopcharger.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\men-shirts1.jpg",
+      "PackagePath": "staticwebassets\\Products\\men-shirts1.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\mens-formal-pant.jpg",
+      "PackagePath": "staticwebassets\\Products\\mens-formal-pant.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\mobile_printer.jpg",
+      "PackagePath": "staticwebassets\\Products\\mobile_printer.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\moto_g85_5g_olive_green__1_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\moto_g85_5g_olive_green__1_1.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\msi.jpg",
+      "PackagePath": "staticwebassets\\Products\\msi.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\powerbank.jpg",
+      "PackagePath": "staticwebassets\\Products\\powerbank.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\printer1.jpg",
+      "PackagePath": "staticwebassets\\Products\\printer1.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\printer2.jpg",
+      "PackagePath": "staticwebassets\\Products\\printer2.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\realme_air_phones.jpg",
+      "PackagePath": "staticwebassets\\Products\\realme_air_phones.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\realmetab.jpg",
+      "PackagePath": "staticwebassets\\Products\\realmetab.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\tab1.jpg",
+      "PackagePath": "staticwebassets\\Products\\tab1.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\Products\\xiaomi-mi-pad-6-pro-tablet.jpg",
+      "PackagePath": "staticwebassets\\Products\\xiaomi-mi-pad-6-pro-tablet.jpg"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\MVC_11_24\\BestStoreMVC_EF_CFA\\BestStoreMVC_EF_CFA\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BestStoreMVC_EF_CFA.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BestStoreMVC_EF_CFA.props",
+      "PackagePath": "build\\BestStoreMVC_EF_CFA.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BestStoreMVC_EF_CFA.props",
+      "PackagePath": "buildMultiTargeting\\BestStoreMVC_EF_CFA.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BestStoreMVC_EF_CFA.props",
+      "PackagePath": "buildTransitive\\BestStoreMVC_EF_CFA.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
